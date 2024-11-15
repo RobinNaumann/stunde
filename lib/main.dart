@@ -1,6 +1,6 @@
 import 'package:elbe/elbe.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:macos_ui/macos_ui.dart';
 import 'package:moewe/moewe.dart';
 import 'package:stunde/bit/b_settings.dart';
@@ -22,7 +22,7 @@ Future<void> _configureMacosWindowUtils() async {
 void main() async {
   await _configureMacosWindowUtils();
   await AppInfoService.init();
-  Hive.init("stunde");
+  Hive.initFlutter();
   LoggerService.init(ConsoleLoggerService());
   WidgetsFlutterBinding.ensureInitialized();
 

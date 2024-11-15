@@ -1,7 +1,6 @@
 import 'dart:math';
 
 import 'package:elbe/elbe.dart';
-import 'package:stunde/bit/b_timespan.dart';
 import 'package:stunde/model/m_task.dart';
 import 'package:stunde/model/m_timespan.dart';
 import 'package:stunde/util.dart';

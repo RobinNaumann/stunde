@@ -55,7 +55,7 @@ class TrayService {
     if (_trayStore != null) return _trayStore!;
     SystemTray t = SystemTray();
     await t.initSystemTray(
-      title: "system tray",
+      toolTip: "stunde",
       iconPath: "assets/tray_icon.png",
     );
     _trayStore = t;

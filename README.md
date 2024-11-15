@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # TODO:
 
-- default tray icon & app icon
+- adjust window size
