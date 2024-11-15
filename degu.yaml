@@ -1,0 +1,27 @@
+# dego is a simple knowledge management tool. It allows me to publish
+# information about projects, tools in a decentralized way.
+# for a usecase, check out apps.robbb.in
+
+name: Stunde
+authors:
+  - ref: https://gist.githubusercontent.com/RobinNaumann/7d9d5b8902a697cda1f0ba2c5b7234c6/raw/46ebed8489de7e4458335ae434fee986d594504b/robin.degu.yaml
+    role: developer
+platforms:
+  - macOS
+tagline: simple timekeeper for macOS
+about: |
+  Stunde is a simple timekeeper for macOS. It allows you to track the time you spent on different projects. It is designed to be simple and easy to use. It runs in the menu bar and does not require any setup. It was designed for freelancers, students, and anyone who needs to track their time. You can also export your time entries to a CSV file. The app is open-source and free to use.
+icon: https://raw.githubusercontent.com/RobinNaumann/stunde/main/assets/icon.png
+source: https://github.com/RobinNaumann/stunde
+donate: https://www.buymeacoffee.com/robinnaumann
+screenshots:
+  - https://raw.githubusercontent.com/RobinNaumann/stunde/main/assets/sc/sc0.png
+  - https://raw.githubusercontent.com/RobinNaumann/stunde/main/assets/sc/sc1.png
+  - https://raw.githubusercontent.com/RobinNaumann/stunde/main/assets/sc/sc2.png
+  - https://raw.githubusercontent.com/RobinNaumann/stunde/main/assets/sc/sc3.png
+  - https://raw.githubusercontent.com/RobinNaumann/stunde/main/assets/sc/sc4.png
+releases:
+  - version: 0.3.0
+    downloads:
+      - platform: macOS
+        url: https://robbb.in
