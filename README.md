@@ -4,8 +4,8 @@ Stunde is a simple timekeeper for macOS. It allows you to track the time you spe
 
 ### Screenshots
 
-_<img src="./assets/sc/sc0.png" width="350" />_
-_<img src="./assets/sc/sc3.png" width="350" />_
+_<img src="./assets/sc/sc0.png" height="250" />_
+_<img src="./assets/sc/sc3.png" height="250" />_
 
 ### Install
 
