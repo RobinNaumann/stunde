@@ -1,20 +1,22 @@
-# stunde
+# Stunde _<img src="./assets/icon.png" width="40" align="right"/>_
 
-A new Flutter project.
+Stunde is a simple timekeeper for macOS. It allows you to track the time you spent on different projects. It is designed to be simple and easy to use. It runs in the menu bar and does not require any setup. It was designed for freelancers, students, and anyone who needs to track their time. You can also export your time entries to a CSV file. The app is open-source and free to use.
 
-## Getting Started
+### Screenshots
 
-This project is a starting point for a Flutter application.
+_<img src="./assets/sc/sc0.png" width="350" />_
+_<img src="./assets/sc/sc3.png" width="350" />_
 
-A few resources to get you started if this is your first Flutter project:
+### Install
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. download it from the [macOS App Store](https://apps.apple.com/de/app/stunde-timekeeping/id6738203776)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### contribute
 
-# TODO:
+- you can build the application yourself using [Flutter](https://flutter.dev)
+- feel free to reach out if you find issues or have suggestions
 
-- adjust window size
+Have a great day,<br>
+Yours, Robin
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/robinnaumann)
